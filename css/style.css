@@ -63,6 +63,16 @@ nav {
 
 /* `Navigation
 -----------------------------------------------------------------------------------------------*/
+* {
+  	margin: 0; 
+		padding: 0;
+		box-sizing: border-box;
+	}
+	body {
+		padding: 30px; 
+		font-family: "Helvetica Neue", helvetica, arial; 
+		background: url('https://subtlepatterns.com/patterns/white_carbonfiber.png');
+	}
 
 	
 
