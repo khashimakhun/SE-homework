@@ -37,7 +37,7 @@ nav {
 }
 #container {
 	min-height:100%;
-	position:relative;
+	position: center;
 }
 /* `Header 
 -----------------------------------------------------------------------------------------------*/
@@ -54,6 +54,7 @@ nav {
 }
 	#logo{
 		float: left;
+
 	}
 
 /* `Navigation
@@ -62,7 +63,7 @@ nav {
 	#nav {
 		float: right;
 		margin-top: 15px;
-		margin-right: 0px;
+		margin-right: 10px;
 		position: relative;
 	}
 
