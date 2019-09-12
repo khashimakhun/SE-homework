@@ -1,5 +1,5 @@
 body {
-	font: 10px/1.5 'Droid Sans', Arial, 'Liberation Sans', FreeSans, sans-serif;
+	font: 10px/1.5 "Libre Franklin", "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
 	color: #000;
 }
 
@@ -20,7 +20,7 @@ h2 {
 }
 
 h3 {
-	font-size: 1.9em;
+	font-size: 2.5em;
 }
 
 h4 {
