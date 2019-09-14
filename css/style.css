@@ -1,3 +1,4 @@
+
 body { 
 	background: url("https://images.unsplash.com/photo-1508105859382-b487af436eff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80") ;
 	height:150%;
@@ -748,4 +749,17 @@ input#img-6:checked ~ .nav-dots label#img-dot-6 {
 #text-name{
 	color: white;
 	font-size: 250%;
+}
+#photo-text2{
+	width: 500px;
+	height: 350px;
+	margin-left: 15%;
+}
+#text-middle{
+	width: 180%;
+	margin-left: 200%;
+	margin-top: -110%;
+	margin-bottom: 120%;
+	font-size: 150%;
+	color: white;
 }
