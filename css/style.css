@@ -718,3 +718,34 @@ input#img-5:checked ~ .nav-dots label#img-dot-5,
 input#img-6:checked ~ .nav-dots label#img-dot-6 {
 	background: rgba(0, 0, 0, 0.8);
 }
+#mission{
+	background-color: #0C2340;
+	width: 100%;
+}
+#number1{
+	width: 100%;
+	position: relative;
+	padding-bottom: 50px;
+}
+.texting{
+	position: relative;
+	width: 35%;
+	margin-top: 4%;
+	margin-left: 5%;
+	font-size: 150%;
+	color: white;
+
+}
+.photo-text{
+	position: relative;
+	margin-left: 50%;
+	width: 500px;
+	height: 350px;
+	margin-top: -23%;
+	box-shadow: #0C2340 ;
+	margin-right: 25px;
+}
+#text-name{
+	color: white;
+	font-size: 250%;
+}
