@@ -1,5 +1,6 @@
-#news_img,#news_text{
-	float:left;
+#news_img{
+	width: 90%;
+	margin: 0 auto;
 }
 #news_text b{
 	font-size:12px;
@@ -7,9 +8,13 @@
 }
 #news_text{
 	padding: 50px 0px 0px 30px;
+	/* background-image: url("../images/news/DY3nGdrXkAAc57B.jpg"); */
 }
-.news_header{
-	color:#126493;
-	font-size:16px;
+.tittle{
+	color:#143865;
 	font-weight:bold;
+	font-size: 2rem;
+	font-family: var(--font-heading);
+    line-height: 1.2em;
+    margin-top: 0;
 }
